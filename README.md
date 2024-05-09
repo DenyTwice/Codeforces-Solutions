@@ -10,3 +10,7 @@
 2. [(14) - Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 
 * [Solution](Leetcode/longest_prefix.c)
+
+3. [(728) - Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
+
+* [Solution](Leetcode/self_dividing.c)
